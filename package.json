@@ -1,0 +1,12 @@
+{
+  "name": "meetspace",
+  "version": "1.0.0",
+  "description": "MeetSpace - Realtime WebRTC Video Conferencing & Teamwork Platform",
+  "scripts": {
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev"
+  },
+  "keywords": ["webrtc", "video", "socket.io", "react"],
+  "author": "",
+  "license": "ISC"
+}
